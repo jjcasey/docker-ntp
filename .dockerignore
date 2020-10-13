@@ -1,0 +1,6 @@
+.git
+.dockerignore
+README.md
+build.sh
+start.sh
+stop.sh
